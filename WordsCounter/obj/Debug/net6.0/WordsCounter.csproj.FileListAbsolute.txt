@@ -1,0 +1,15 @@
+C:\Workspace\Projects\Desktop\C#\WordsCounter\bin\Debug\net6.0\WordsCounter.exe
+C:\Workspace\Projects\Desktop\C#\WordsCounter\bin\Debug\net6.0\WordsCounter.deps.json
+C:\Workspace\Projects\Desktop\C#\WordsCounter\bin\Debug\net6.0\WordsCounter.runtimeconfig.json
+C:\Workspace\Projects\Desktop\C#\WordsCounter\bin\Debug\net6.0\WordsCounter.dll
+C:\Workspace\Projects\Desktop\C#\WordsCounter\bin\Debug\net6.0\WordsCounter.pdb
+C:\Workspace\Projects\Desktop\C#\WordsCounter\obj\Debug\net6.0\WordsCounter.csproj.AssemblyReference.cache
+C:\Workspace\Projects\Desktop\C#\WordsCounter\obj\Debug\net6.0\WordsCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Projects\Desktop\C#\WordsCounter\obj\Debug\net6.0\WordsCounter.AssemblyInfoInputs.cache
+C:\Workspace\Projects\Desktop\C#\WordsCounter\obj\Debug\net6.0\WordsCounter.AssemblyInfo.cs
+C:\Workspace\Projects\Desktop\C#\WordsCounter\obj\Debug\net6.0\WordsCounter.csproj.CoreCompileInputs.cache
+C:\Workspace\Projects\Desktop\C#\WordsCounter\obj\Debug\net6.0\WordsCounter.dll
+C:\Workspace\Projects\Desktop\C#\WordsCounter\obj\Debug\net6.0\refint\WordsCounter.dll
+C:\Workspace\Projects\Desktop\C#\WordsCounter\obj\Debug\net6.0\WordsCounter.pdb
+C:\Workspace\Projects\Desktop\C#\WordsCounter\obj\Debug\net6.0\WordsCounter.genruntimeconfig.cache
+C:\Workspace\Projects\Desktop\C#\WordsCounter\obj\Debug\net6.0\ref\WordsCounter.dll
